@@ -1,1 +1,1 @@
-# Sign2Nav: Framework for efficient conversion of sign language instruction to autonomous navigation
+# Sign2Nav: Framework for Efficient Conversion of Sign Language Instruction to Autonomous Navigation
